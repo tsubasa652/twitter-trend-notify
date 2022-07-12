@@ -12,5 +12,6 @@
 			"description": "Twitter Bearer Token",
 			"required": true 
         }
-	]
+	],
+	"cron": "0/30 * * * ? *"
 }
