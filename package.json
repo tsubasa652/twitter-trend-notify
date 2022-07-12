@@ -1,0 +1,16 @@
+{
+  "name": "twitter-trend-notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tsubasa652 <tsubasa@tsubasa.ml> (https://github.com/tsubasa652)",
+  "license": "ISC",
+  "dependencies": {
+    "deta": "^1.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}

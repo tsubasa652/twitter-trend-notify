@@ -1,0 +1,16 @@
+{
+	"name": "Notify-Discord-of-Twitter-trends",
+	"description": "Notify Discord of Twitter trends",
+	"env": [
+		{
+			"key": "discord_url",
+			"description": "Discord Webhook URL",
+			"required": true 
+		},
+        {
+            "key": "twitter_token",
+			"description": "Twitter Bearer Token",
+			"required": true 
+        }
+	]
+}
